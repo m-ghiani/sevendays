@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /assets/
+Disallow: /libs/
+Disallow: /BKP/
+Disallow: /entropybanner/
+Disallow: /.htpassword/
+Disallow: test.html
+Disallow: test.php
+

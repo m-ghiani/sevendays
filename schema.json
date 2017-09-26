@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "Restaurant",
+  	"email":"mailto:info@sevendaysgenova.it",
+  	"logo": "http://sevendaysgenova.it/assets/images/logo-fb.png",
+     "url": "http://sevendaysgenova.it",
+  	"address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "Genova",
+	    "addressRegion": "GE",
+	    "postalCode":"16148",
+	    "streetAddress": "via Simone Schiaffino 32"
+  	},
+  	"description": "This is your business description.",
+  	"name": "Seven Days Genova",
+  	"telephone": "010-3076897",
+  	"openingHours": "Mo,Tu,We,Th,Fr,Sa 19:30-03:00",
+  	"hasMap": "https://www.google.it/maps/place/Seven+Days/@44.3949398,8.9964222,17z/data=!4m12!1m6!3m5!1s0x12d3433b06ed73cd:0x59e669e44b8dc199!2sSeven+Days!8m2!3d44.394936!4d8.9986109!3m4!1s0x12d3433b06ed73cd:0x59e669e44b8dc199!8m2!3d44.394936!4d8.9986109?hl=it",
+  	"geo": {
+	    "@type": "GeoCoordinates",
+	    "latitude": "44.3949486",
+	    "longitude": "8.998519"
+ 		}, 			
+  	"sameAs" : [ "http://www.facebook.com/seven.days.genova",
+    "http://sevendaysgenova.it"]
+	}
+</script>

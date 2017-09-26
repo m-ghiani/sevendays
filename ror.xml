@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.sevendaysgenova.it/</title>
+  <link>http://www.sevendaysgenova.it/</link>
+
+<item>
+     <link>http://www.sevendaysgenova.it/</link>
+     <title>Seven Days Genova - Pizzeria Karaoke Discoteca</title>
+     <description>Seven Days Genova - Più di una pizzeria: karaoke, giochi, pub, discoteca ed eventi live</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sevendaysgenova.it/news.php</link>
+     <title>Seven Days Genova - i nostri eventi</title>
+     <description>Seven Days Genova - gli eventi del Seven Days</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sevendaysgenova.it/events.php</link>
+     <title>Seven Days Genova - i nostri eventi</title>
+     <description>Seven Days Genova - gli eventi del Seven Days</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sevendaysgenova.it/gallery.php</link>
+     <title>Seven Days Genova - le nostre foto</title>
+     <description>Seven Days Genova - le foto più belle del locale e degli eventi del Seven</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sevendaysgenova.it/contacts.php</link>
+     <title>Seven Days Genova - contatti</title>
+     <description>Seven Days Genova - contatti, mappa ed indicazioni stradali per raggiungerci</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
